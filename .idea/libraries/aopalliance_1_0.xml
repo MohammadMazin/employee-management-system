@@ -1,0 +1,52 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/dad/aopalliance-1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/bcmail-jdk14-1.38.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/bcmail-jdk14-138.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/bcprov-jdk14-1.38.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/bcprov-jdk14-138.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/bctsp-jdk14-1.38.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/castor-core-1.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/castor-xml-1.3.3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/commons-beanutils-1.9.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/commons-digester-2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/commons-lang-2.6.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/core-2.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/ecj-4.3.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/icu4j-57.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/itext-2.1.7.js5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jackson-annotations-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jackson-core-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jackson-databind-2.1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jakarta-regexp-1.4.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jasperreports-6.3.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/javax.inject-1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jcommon-1.0.23.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/jfreechart-1.0.19.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/lucene-analyzers-common-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/lucene-core-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/lucene-queries-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/lucene-queryparser-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/lucene-sandbox-4.5.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/olap4j-0.9.7.309-JS-3.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/slf4j-api-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/slf4j-simple-1.7.30.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-aop-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-asm-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-beans-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-context-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-core-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/spring-expression-3.0.6.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/stax-1.2.0.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/stax-api-1.0-2.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/stax-api-1.0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/activation-1.1.1.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/dad/java-mail-1.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
